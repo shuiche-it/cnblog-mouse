@@ -1,10 +1,9 @@
 # cnblog-mouse
 
-博客园鼠标特效, 目前收录了10中特效
+博客园鼠标特效, 目前收录了10种特效
 
-DEMO: 
+DEMO参考: [https://www.cnblogs.com/xuange306/](https://www.cnblogs.com/xuange306/)
 
-博客主题参考: [https://github.com/esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence)
 
 ### 部署说明
 #### 上传脚本
@@ -26,10 +25,14 @@ DEMO:
 <script src="https://blog-static.cnblogs.com/files/xuange306/mouse.min.js"></script>
 <script type="text/javascript">
     $.shuicheMouse({
-        type:10,
+        type:10, 
         color:"rgba(187,67,128,1)"
     })
 </script>
 ```
-
+### 参数说明
+|参数|类型|说明|
+|---|---|---|
+|type| int | 鼠标类型, 赋值 1 ~ 10 任意一个数字, 分别代表10中类型 |
+|color| string/ false | 特效颜色, 如果赋值 false (这里的 false 是 布尔类型), 则会随机一种颜色. string 支持类型(css颜色赋值类型都支持)<br> 1. "#ffffff" 类型 <br> 2: rgb(255,255,255) <br> 3: rgba(255,255,255, 0.8)|
 
