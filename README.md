@@ -1,6 +1,6 @@
 # cnblog-mouse
 
-博客园鼠标特效, 目前收录了10种特效
+博客园鼠标特效, 目前收录了12种特效
 
 DEMO参考: [https://www.cnblogs.com/xuange306/](https://www.cnblogs.com/xuange306/)
 
@@ -33,6 +33,6 @@ DEMO参考: [https://www.cnblogs.com/xuange306/](https://www.cnblogs.com/xuange3
 ### 参数说明
 |参数|类型|说明|
 |---|---|---|
-|type| int | 鼠标类型, 赋值 1 ~ 10 任意一个数字, 分别代表10中类型 |
+|type| int | 鼠标类型, 赋值 1 ~ 12 任意一个数字, 分别代表12种类型 |
 |color| string/ false | 特效颜色, 如果赋值 false (这里的 false 是 布尔类型), 则会随机一种颜色. string 支持类型(css颜色赋值类型都支持)<br> 1. "#ffffff" 类型 <br> 2: rgb(255,255,255) <br> 3: rgba(255,255,255, 0.8)|
 
