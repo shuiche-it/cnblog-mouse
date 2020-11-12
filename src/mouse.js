@@ -505,7 +505,6 @@
 
             //鼠标移动事件
             function documentMouseMoveHandler(event) {
-                console.log("----------")
                 mouseX = event.clientX - (window.innerWidth - SCREEN_WIDTH) * .5;
                 mouseY = event.clientY - (window.innerHeight - SCREEN_HEIGHT) * .5;
             }
@@ -644,7 +643,6 @@
 
                         addEvent(this.obj, 'mousemove', function (e) {
                             e = e || window.event;
-                            console.log(e.clientX);
                             m.x = e.clientX;
                             m.y = e.clientY;
                         })
