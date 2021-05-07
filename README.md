@@ -36,3 +36,10 @@ DEMO参考: [https://www.cnblogs.com/shuiche/](https://www.cnblogs.com/shuiche/)
 |type| int | 鼠标类型, 赋值 1 ~ 12 任意一个数字, 分别代表12种类型 |
 |color| string/ false | 特效颜色, 如果赋值 false (这里的 false 是 布尔类型), 则会随机一种颜色. string 支持类型(css颜色赋值类型都支持)<br> 1. "#ffffff" 类型 <br> 2: rgb(255,255,255) <br> 3: rgba(255,255,255, 0.8)|
 
+### 赞赏
+如果您觉得 Silence 主题做的还不错，或者想对我微小的工作一点激励，欢迎赞赏支持。
+
+![收款码](https://user-images.githubusercontent.com/10776422/117404459-92c1b900-af3c-11eb-9c1e-5db434f694bb.png)
+
+
+
