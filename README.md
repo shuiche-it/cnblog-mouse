@@ -2,7 +2,7 @@
 
 博客园鼠标特效, 目前收录了12种特效
 
-DEMO参考: [https://www.cnblogs.com/xuange306/](https://www.cnblogs.com/xuange306/)
+DEMO参考: [https://www.cnblogs.com/shuiche/](https://www.cnblogs.com/shuiche/)
 
 
 ### 部署说明
