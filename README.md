@@ -39,7 +39,5 @@ DEMO参考: [https://www.cnblogs.com/shuiche/](https://www.cnblogs.com/shuiche/)
 ### 赞赏
 如果您觉得 Silence 主题做的还不错，或者想对我微小的工作一点激励，欢迎赞赏支持。
 
-![收款码](https://user-images.githubusercontent.com/10776422/117404459-92c1b900-af3c-11eb-9c1e-5db434f694bb.png)
-
-
+![收款码2](https://user-images.githubusercontent.com/10776422/117404632-d9afae80-af3c-11eb-9800-e6ea8c8fe0d4.png)
 
