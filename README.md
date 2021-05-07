@@ -1,5 +1,7 @@
-# cnblog-mouse
+# 前言
+cnblog-mouse 是一个完整的插件，理论上该插件支持所有的 web 项目，本人只针对了博客园做了测试。
 
+# cnblog-mouse
 博客园鼠标特效, 目前收录了12种特效
 
 DEMO参考: [https://www.cnblogs.com/shuiche/](https://www.cnblogs.com/shuiche/)
@@ -37,7 +39,7 @@ DEMO参考: [https://www.cnblogs.com/shuiche/](https://www.cnblogs.com/shuiche/)
 |color| string/ false | 特效颜色, 如果赋值 false (这里的 false 是 布尔类型), 则会随机一种颜色. string 支持类型(css颜色赋值类型都支持)<br> 1. "#ffffff" 类型 <br> 2: rgb(255,255,255) <br> 3: rgba(255,255,255, 0.8)|
 
 ### 赞赏
-如果您觉得 Silence 主题做的还不错，或者想对我微小的工作一点激励，欢迎赞赏支持。
+如果您觉得 cnblog-mouse 鼠标效果做的还不错，或者想对我微小的工作一点激励，欢迎赞赏支持。
 
 ![收款码2](https://user-images.githubusercontent.com/10776422/117404632-d9afae80-af3c-11eb-9800-e6ea8c8fe0d4.png)
 
